@@ -235,19 +235,22 @@ box-shadow: 0 0 25px #bd7df8;
 }
 
 @keyframes words{
-    0%, 20%{
+    0%, 16%{
         content: "a youth-led nonprofit";
     }
-    21%, 40%{
-        content: "1.7K+ student advocates";
-        }
-    41%, 60%{
+    17%, 32%{
+        content: "@nightingaleadvocacy";
+    }
+    33%, 51%{
+        content: "1.7k+ student advocates";
+    }
+    52%, 68%{
         content: "next-gen policy reform";
     }
-    61%, 80%{
+    69%, 85%{
         content: "50+ chapters nationwide";
     }
-    81%, 100%{
+    86%, 100%{
         content: "the future of healthcare";
     }
 }
